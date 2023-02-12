@@ -3,5 +3,6 @@
 https://github.com/vasusen-code/Telethon/archive/refs/tags/v1.24.0.zip
 telethon
 cryptg
+decouple
 tgcrypto
 pyrogram==1.4.16
